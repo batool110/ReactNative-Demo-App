@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "168327277104",
+    "project_id": "sharjah24-f5b0b",
+    "storage_bucket": "sharjah24-f5b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168327277104:android:8a944831bce612ce85dbf5",
+        "android_client_info": {
+          "package_name": "ae.sharjah24.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168327277104-su8oquas7mnslg8j9vgtaaebagpt1j59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB_HuUaqVO-WeoY40ymfTredHZ9KiUnmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168327277104-su8oquas7mnslg8j9vgtaaebagpt1j59.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168327277104-ru9lcj03iv6pka9kj454o0dfu62is5qj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sharjah24.mobile.staging"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168327277104:android:e9369e683687648c85dbf5",
+        "android_client_info": {
+          "package_name": "com.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168327277104-su8oquas7mnslg8j9vgtaaebagpt1j59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB_HuUaqVO-WeoY40ymfTredHZ9KiUnmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168327277104-su8oquas7mnslg8j9vgtaaebagpt1j59.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168327277104-ru9lcj03iv6pka9kj454o0dfu62is5qj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sharjah24.mobile.staging"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
